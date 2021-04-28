@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **matias.brigante@gmail.com**
 
+- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/1PcG7AtfjPcApogt0zn_8cxYVqRexr9JZ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matias-brigante-gibson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="matias-brigante-gibson" height="30" width="40" /></a>
