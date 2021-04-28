@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lasmaty07?tab=repositories](https://github.com/lasmaty07?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/lasmaty07?tab=repositories)
 
 - 📫 How to reach me **matias.brigante@gmail.com**
 
