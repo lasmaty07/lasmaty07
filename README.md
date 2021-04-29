@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quiero!](https://www.quiero.com.ar)
 
-- 🤝 I’m looking for help with **3D Printing**
+- 💬 Ask me about **3D Printing**
 
 - 🌱 I’m currently learning **Python and Microservices**
 
