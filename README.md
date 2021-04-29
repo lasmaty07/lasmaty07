@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lasmaty07?tab=repositories)
 
+- 📖 I’m currently reading **The DevOps Handbook**
+
 - 📫 How to reach me **matias.brigante@gmail.com**
 
 - 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/1PcG7AtfjPcApogt0zn_8cxYVqRexr9JZ/view?usp=sharing)
