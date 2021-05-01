@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lasmaty07?tab=repositories)
 
-- 📖 I’m currently reading **The DevOps Handbook**
+- 📖 I’m currently reading **The DevOps Handbook** and **Clean Code**
 
 - 📫 How to reach me **matias.brigante@gmail.com**
 
