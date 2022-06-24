@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasmaty07&label=Profile%20views&color=0e75b6&style=flat" alt="lasmaty07" /> </p>
 
-- 🔭 I’m currently working on [Quiero!](https://www.quiero.com.ar)
+- 🔭 I’m currently working on [Cultivio](https://cultivio.com)
 
 - 💬 Ask me about **3D Printing**
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lasmaty07?tab=repositories)
 
-- 📖 I’m currently reading **The DevOps Handbook** and **Clean Code**
+- 📖 I’m currently reading **Building Microservices - By Sam Newman**
 
 - 📫 How to reach me **matias.brigante@gmail.com**
 
-- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/1PcG7AtfjPcApogt0zn_8cxYVqRexr9JZ/view?usp=sharing)
+- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/18Sp5DPIl9mYptmvYCK6qSN6Y8XxxXWCs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
