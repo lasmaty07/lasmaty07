@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **3D Printing**
 
-- 🌱 I’m currently learning **Node.Js and Microservices**
+- 🌱 I’m currently learning **ArgoCD and Microservices**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lasmaty07?tab=repositories)
 
