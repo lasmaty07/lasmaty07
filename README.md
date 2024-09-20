@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lasmaty07?tab=repositories)
 
-- 📖 I’m currently reading **Building Microservices - By Sam Newman**
+- 📖 I’m currently reading **Linux Basics for Hackers - By OccupyTheWeb**
 
 - 📫 How to reach me **matias.brigante@gmail.com**
 
