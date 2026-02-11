@@ -13,9 +13,7 @@
 
 - 📖 I’m currently reading **Linux Basics for Hackers - By OccupyTheWeb**
 
-- 📫 How to reach me **matias.brigante@gmail.com**
-
-- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/18Sp5DPIl9mYptmvYCK6qSN6Y8XxxXWCs/view?usp=sharing)
+- 📫 How to reach me *cosponsor_unhitched919@simplelogin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
